@@ -12,8 +12,8 @@ local ltn12 	= require("ltn12")
 local json 		= require("json")
 local https     = require "ssl.https"
 
-local CARNET_USERNAME = 'rene@reneboer.demon.nl'
-local CARNET_PASSWORD = '[5yWuwy?.p6H'
+local CARNET_USERNAME = 'uid'
+local CARNET_PASSWORD = 'pwd'
 
 local port_host = "www.volkswagen-car-net.com"
 local HEADERS = { 
