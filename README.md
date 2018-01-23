@@ -22,6 +22,6 @@ Command line commands supported are:
 	getTripStatistics
 
 
-Next up will be a plugin for openLuup. I would like to try on a Vera, but it I only got it working wiht luasec 0.7 installed on my PI with Debian. It has to do with either the TSL protocol and/or SNI support.
+Next up will be a plugin for openLuup. I would like to try on a Vera, but it I only got it working wiht luasec 0.7 installed on my PI with Debian. It has to do with either the TSL protocol and/or SNI support. If anyone knows how to work a round this and get it working with luasec 0.5 please let me know.
 
 Have fun
